@@ -25,7 +25,7 @@ const giftData: Record<string, GiftData> = {
   // ----------------------------------------------------------
   aya: {
     name: "Asmaa🦋",                                     // اسم مستلم الهدية
-    senderName: "your love",                                   // التوقيع في آخر الرسالة (اختياري)
+    senderName: "Ali",                                   // التوقيع في آخر الرسالة (اختياري)
     envelopeImage: "/images/envelope-aya.png",           // صورة الظرف
     birthdayImage: "/images/birthday-aya.png",           // صورة الهدية النهائية
     accentColor: "#38bdf8",                              // اللون الأزرق الفاتح المتوافق مع التصميم الجديد

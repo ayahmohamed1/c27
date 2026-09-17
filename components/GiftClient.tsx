@@ -217,7 +217,7 @@ export default function GiftClient({ data }: Props) {
           <div className="svg-container" style={{ opacity: 0.8 }}>
             <CakeBlownSVG />
           </div>
-          <h2 className="gift-title" style={{ marginBottom: '1.5rem' }}>Happy Birthday, Habibty! 🎂</h2>
+          <h2 className="gift-title" style={{ marginBottom: '1.5rem' }}>Happy Birthday, Asmaa! 🎂</h2>
           <button className="btn-secondary" onClick={() => navigateTo('cake_lit')}>Light it Again ✨</button>
           
           <p className="subtitle" style={{ marginTop: '1rem' }}>You have a secret letter</p>
@@ -309,7 +309,7 @@ export default function GiftClient({ data }: Props) {
               </div>
 
               <div className="player-info">
-                <div className="player-title">Our Song</div>
+                <div className="player-title">Ashan habeebyy</div>
                 <div className="player-artist">every word for you</div>
               </div>
 
